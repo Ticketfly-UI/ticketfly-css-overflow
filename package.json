@@ -12,7 +12,7 @@
     "css"
   ],
   "repository": {
-    "url": "https://github.com/Ticketfly-UI/ticketfly-css-overflow-utilities",
+    "url": "https://github.com/Ticketfly-UI/ticketfly-css-overflow-utilities.git",
     "type": "git"
   },
   "files": [
